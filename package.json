@@ -1,0 +1,20 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "tes",
+	"start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divyakemparaj-ibm/git-test.git"
+  },
+  "author": "divya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divyakemparaj-ibm/git-test/issues"
+  },
+  "homepage": "https://github.com/divyakemparaj-ibm/git-test#readme"
+}
